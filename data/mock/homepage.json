@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nodeHomepages": {
+      "__typename": "NodeHomepageConnection",
+      "nodes": [
+        {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to Temple Beth Shalom",
+          "path": "/homepage",
+          "heroTitle": "Where Tradition Meets Tomorrow",
+          "heroSubtitle": "A Warm, Inclusive Reform Jewish Community",
+          "heroDescription": {
+            "processed": "<p>Temple Beth Shalom has been a spiritual home for Jewish families in Springfield for over seven decades. We are a vibrant Reform congregation that celebrates Jewish tradition while embracing the values of inclusivity, social justice, and lifelong learning. Everyone is welcome at our table.</p>",
+            "summary": "Temple Beth Shalom has been a spiritual home for Jewish families in Springfield for over seven decades. We are a vibrant Reform congregation that celebrates Jewish tradition while embracing the values"
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-families",
+              "title": "",
+              "number": "650+",
+              "label": "Member Families"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-school",
+              "title": "",
+              "number": "280",
+              "label": "Religious School Students"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-founded",
+              "title": "",
+              "number": "1952",
+              "label": "Year Founded"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-tikkun",
+              "title": "",
+              "number": "15,000+",
+              "label": "Volunteer Hours Annually"
+            }
+          ],
+          "featuredItemsTitle": "Our Programs",
+          "ctaTitle": "Join Us for Shabbat",
+          "ctaDescription": {
+            "processed": "<p>Experience the warmth and joy of Shabbat at Temple Beth Shalom. Our Friday evening services combine beautiful music, meaningful prayer, and a welcoming community. Oneg Shabbat reception follows every service.</p>",
+            "summary": "Experience the warmth and joy of Shabbat at Temple Beth Shalom. Our Friday evening services combine beautiful music, meaningful prayer, and a welcoming community. Oneg Shabbat reception follows every "
+          },
+          "ctaPrimary": "Plan Your Visit",
+          "ctaSecondary": "Become a Member"
+        }
+      ]
+    }
+  }
+}

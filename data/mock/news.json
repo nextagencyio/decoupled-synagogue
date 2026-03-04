@@ -1,0 +1,163 @@
+{
+  "data": {
+    "nodeNewsItems": {
+      "__typename": "NodeNewsConnection",
+      "nodes": [
+        {
+          "__typename": "NodeNews",
+          "id": "news-bnei-mitzvah",
+          "title": "Mazel Tov to Our Spring B'nei Mitzvah Class",
+          "path": "/news/spring-bnei-mitzvah-class",
+          "body": {
+            "processed": "<p>Temple Beth Shalom congratulates the eight young people who celebrated becoming B'nei Mitzvah this spring. Each student spent more than a year preparing for this milestone, studying Hebrew, learning their Torah and Haftarah portions, and completing meaningful social action projects.</p><h2>Spring 2026 B'nei Mitzvah</h2><ul><li>Emma Shapiro (March 7) - Social action project: collected 500 books for Springfield Public Library</li><li>Jacob Rosen (March 14) - Social action project: organized senior center game nights</li><li>Maya Goldberg (March 21) - Social action project: raised funds for animal rescue</li><li>Ethan Levy (March 28) - Social action project: tutored elementary school students</li></ul><p>We are proud of each of these young people and look forward to watching them continue their Jewish journey as members of our community.</p>",
+            "summary": "Temple Beth Shalom congratulates the eight young people who celebrated becoming B'nei Mitzvah this spring. Each student spent more than a year preparing for this milestone, studying Hebrew, learning t"
+          },
+          "newsCategory": [
+            {
+              "id": "bnei-mitzvah",
+              "name": "bnei-mitzvah"
+            }
+          ],
+          "publishDate": {
+            "timestamp": 1772377200
+          },
+          "author": "Rabbi David Goldstein",
+          "summary": {
+            "processed": "<p>Eight students celebrated becoming B'nei Mitzvah this spring at Temple Beth Shalom, each completing meaningful social action projects as part of their preparation.</p>",
+            "summary": "Eight students celebrated becoming B'nei Mitzvah this spring at Temple Beth Shalom, each completing meaningful social action projects as part of their preparation."
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+            "alt": "Students celebrating their B'nei Mitzvah milestone",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-cantor-concert",
+          "title": "Cantor Levy to Perform Benefit Concert for Refugee Resettlement",
+          "path": "/news/cantor-levy-concert",
+          "body": {
+            "processed": "<p>Cantor Sarah Levy will perform a special benefit concert on Saturday evening, April 25, featuring Jewish music spanning centuries and continents. The program includes Sephardic ballads, Yiddish folk songs, Israeli contemporary music, and liturgical favorites.</p><h2>Concert Details</h2><ul><li>Performance begins at 8:00 PM following Havdalah</li><li>Accompanied by the Springfield Chamber Ensemble</li><li>Guest appearance by the Temple Beth Shalom Youth Choir</li><li>Dessert reception following the concert</li></ul><p>All proceeds benefit the Springfield Refugee Resettlement Coalition, supporting our congregation's commitment to welcoming strangers as taught in the Torah. Tickets are $25 per person and available through the temple office or online.</p>",
+            "summary": "Cantor Sarah Levy will perform a special benefit concert on Saturday evening, April 25, featuring Jewish music spanning centuries and continents. The program includes Sephardic ballads, Yiddish folk s"
+          },
+          "newsCategory": [
+            {
+              "id": "community",
+              "name": "community"
+            },
+            {
+              "id": "synagogue-news",
+              "name": "synagogue-news"
+            }
+          ],
+          "publishDate": {
+            "timestamp": 1771167600
+          },
+          "author": "Temple Beth Shalom Communications",
+          "summary": {
+            "processed": "<p>Cantor Sarah Levy will perform a benefit concert on April 25 featuring Jewish music from diverse traditions, with all proceeds supporting the Springfield Refugee Resettlement Coalition.</p>",
+            "summary": "Cantor Sarah Levy will perform a benefit concert on April 25 featuring Jewish music from diverse traditions, with all proceeds supporting the Springfield Refugee Resettlement Coalition."
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800&q=80",
+            "alt": "Musical performance in a concert setting",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-rabbi-message",
+          "title": "A Message from Rabbi Goldstein: Renewing Our Commitment",
+          "path": "/news/rabbi-message-spring-2026",
+          "body": {
+            "processed": "<p>Dear friends,</p><p>As we enter the spring season and prepare for Passover, I find myself reflecting on the themes of renewal and liberation that are central to this time of year. The Passover story reminds us that freedom is not just a historical event but an ongoing responsibility. We are called to pursue justice, welcome the stranger, and work toward a world where every person can live in dignity.</p><p>I am incredibly proud of how our congregation has lived these values over the past year. From our Social Action Committee's monthly meal service to our Religious School students' community projects, Beth Shalom members continue to demonstrate that Jewish values are not abstract ideals but concrete actions.</p><h2>Looking Ahead</h2><p>This spring brings exciting opportunities for learning and connection. Our Scholar-in-Residence weekend in May will challenge us to think about Jewish ethics in new ways, and our Community Seder will bring us together in celebration and gratitude.</p><p>I look forward to sharing these moments with you.</p><p>B'shalom,<br />Rabbi David Goldstein</p>",
+            "summary": "Dear friends,As we enter the spring season and prepare for Passover, I find myself reflecting on the themes of renewal and liberation that are central to this time of year. The Passover story reminds "
+          },
+          "newsCategory": [
+            {
+              "id": "clergy-message",
+              "name": "clergy-message"
+            }
+          ],
+          "publishDate": {
+            "timestamp": 1772377200
+          },
+          "author": "Rabbi David Goldstein",
+          "summary": {
+            "processed": "<p>Rabbi Goldstein reflects on the themes of renewal and liberation as the congregation prepares for Passover and looks ahead to spring programming.</p>",
+            "summary": "Rabbi Goldstein reflects on the themes of renewal and liberation as the congregation prepares for Passover and looks ahead to spring programming."
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+            "alt": "Rabbi David Goldstein",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "nodeEvents": {
+      "__typename": "NodeEventConnection",
+      "nodes": [
+        {
+          "__typename": "NodeEvent",
+          "id": "event-purim",
+          "title": "Purim Carnival & Megillah Reading",
+          "path": "/events/purim-carnival",
+          "body": {
+            "processed": "<p>Chag Purim! Join Temple Beth Shalom for our annual Purim Carnival and Megillah Reading, the most festive and fun holiday on the Jewish calendar. Come in costume, make noise with your grogger, and celebrate the story of Queen Esther's bravery.</p><h2>Schedule</h2><ul><li>4:00 PM - Carnival opens (games, prizes, face painting, bounce house)</li><li>5:00 PM - Costume parade and contest (categories for all ages)</li><li>5:30 PM - Pizza dinner and hamantaschen</li><li>6:30 PM - Megillah reading with audience participation</li><li>7:30 PM - Purim spiel (humorous skit) performed by Temple Players</li></ul><p>This event is free and open to the entire community. Bring your friends, your family, and your best costume!</p>",
+            "summary": "Chag Purim! Join Temple Beth Shalom for our annual Purim Carnival and Megillah Reading, the most festive and fun holiday on the Jewish calendar. Come in costume, make noise with your grogger, and cele"
+          },
+          "eventDate": {
+            "timestamp": 1773694800
+          },
+          "endDate": {
+            "timestamp": 1773709200
+          },
+          "location": "Temple Beth Shalom Social Hall & Grounds",
+          "eventCategory": [
+            {
+              "id": "holiday-celebration",
+              "name": "holiday-celebration"
+            },
+            {
+              "id": "community-social",
+              "name": "community-social"
+            }
+          ],
+          "speaker": "Rabbi David Goldstein & Cantor Sarah Levy",
+          "registrationUrl": "https://bethshalom.org/purim",
+          "cost": "Free",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&q=80",
+            "alt": "Colorful Purim celebration with costumes and festivities",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-passover-seder",
+          "title": "Community Passover Seder",
+          "path": "/events/community-passover-seder",
+          "body": {
+            "processed": "<p>You are invited to Temple Beth Shalom's Community Passover Seder, a meaningful and joyful retelling of the Exodus story. Led by Rabbi Goldstein and Cantor Levy, the seder is designed to be accessible and engaging for all ages, from the Four Questions asked by our youngest participants to thoughtful discussion for adults.</p><h2>Seder Details</h2><ul><li>Traditional seder with an interactive, family-friendly Haggadah</li><li>Full kosher-for-Passover dinner catered by Bubbe's Kitchen</li><li>Children's activities and afikoman hunt</li><li>Songsheets for all the classic Passover melodies</li><li>Vegetarian and gluten-free options available</li></ul><p>The Community Seder is especially meaningful for those who may not have family nearby or who want to share the holiday experience with a larger community. Reservations are required as seating is limited.</p>",
+            "summary": "You are invited to Temple Beth Shalom's Community Passover Seder, a meaningful and joyful retelling of the Exodus story. Led by Rabbi Goldstein and Cantor Levy, the seder is designed to be accessible "
+          },
+          "eventDate": {
+            "timestamp": 1775170800
+          },
+          "endDate": {
+            "timestamp": 1775183400
+          },
+          "location": "Temple Beth Shalom Social Hall",
+          "eventCategory": [
+            {
+              "id": "holiday-celebration",
+              "name": "holiday-celebration"
+            }
+          ],
+          "speaker": "Rabbi David Goldstein",
+          "registrationUrl": "https://bethshalom.org/seder",
+          "cost": "$36 adults, $18 children (12 and under), $90 family max",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1567529692333-de9fd6772897?w=800&q=80",
+            "alt": "Beautifully set Passover seder table",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1567529692333-de9fd6772897?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1567529692333-de9fd6772897?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1567529692333-de9fd6772897?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-lecture",
+          "title": "Scholar-in-Residence Weekend: Jewish Ethics in the Age of AI",
+          "path": "/events/scholar-in-residence",
+          "body": {
+            "processed": "<p>Temple Beth Shalom is honored to welcome Dr. Rebecca Friedman, Professor of Jewish Ethics at Hebrew Union College, for our annual Scholar-in-Residence Weekend. Dr. Friedman will explore how Jewish ethical traditions can guide us through the moral challenges posed by artificial intelligence and emerging technology.</p><h2>Weekend Schedule</h2><ul><li><strong>Friday Evening:</strong> Lecture following Shabbat services - 'What Would the Rabbis Say About AI?'</li><li><strong>Saturday Morning:</strong> Torah study session connecting the weekly parasha to technology ethics</li><li><strong>Saturday Afternoon:</strong> Workshop - 'Practical Jewish Ethics for the Digital Age'</li><li><strong>Sunday Morning:</strong> Brunch and panel discussion with community leaders</li></ul><p>Dr. Friedman's visit is made possible by the Kessler Family Lecture Fund. All events are free and open to the public.</p>",
+            "summary": "Temple Beth Shalom is honored to welcome Dr. Rebecca Friedman, Professor of Jewish Ethics at Hebrew Union College, for our annual Scholar-in-Residence Weekend. Dr. Friedman will explore how Jewish eth"
+          },
+          "eventDate": {
+            "timestamp": 1778286600
+          },
+          "endDate": {
+            "timestamp": 1778432400
+          },
+          "location": "Temple Beth Shalom Sanctuary and Social Hall",
+          "eventCategory": [
+            {
+              "id": "educational",
+              "name": "educational"
+            },
+            {
+              "id": "shabbat-special",
+              "name": "shabbat-special"
+            }
+          ],
+          "speaker": "Dr. Rebecca Friedman, Hebrew Union College",
+          "registrationUrl": "https://bethshalom.org/scholar",
+          "cost": "Free",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+            "alt": "Scholar speaking at a lecture event",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

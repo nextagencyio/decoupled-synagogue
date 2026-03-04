@@ -1,0 +1,779 @@
+{
+  "/homepage": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to Temple Beth Shalom",
+          "path": "/homepage",
+          "heroTitle": "Where Tradition Meets Tomorrow",
+          "heroSubtitle": "A Warm, Inclusive Reform Jewish Community",
+          "heroDescription": {
+            "processed": "<p>Temple Beth Shalom has been a spiritual home for Jewish families in Springfield for over seven decades. We are a vibrant Reform congregation that celebrates Jewish tradition while embracing the values of inclusivity, social justice, and lifelong learning. Everyone is welcome at our table.</p>",
+            "summary": "Temple Beth Shalom has been a spiritual home for Jewish families in Springfield for over seven decades. We are a vibrant Reform congregation that celebrates Jewish tradition while embracing the values"
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-families",
+              "title": "",
+              "number": "650+",
+              "label": "Member Families"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-school",
+              "title": "",
+              "number": "280",
+              "label": "Religious School Students"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-founded",
+              "title": "",
+              "number": "1952",
+              "label": "Year Founded"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-tikkun",
+              "title": "",
+              "number": "15,000+",
+              "label": "Volunteer Hours Annually"
+            }
+          ],
+          "featuredItemsTitle": "Our Programs",
+          "ctaTitle": "Join Us for Shabbat",
+          "ctaDescription": {
+            "processed": "<p>Experience the warmth and joy of Shabbat at Temple Beth Shalom. Our Friday evening services combine beautiful music, meaningful prayer, and a welcoming community. Oneg Shabbat reception follows every service.</p>",
+            "summary": "Experience the warmth and joy of Shabbat at Temple Beth Shalom. Our Friday evening services combine beautiful music, meaningful prayer, and a welcoming community. Oneg Shabbat reception follows every "
+          },
+          "ctaPrimary": "Plan Your Visit",
+          "ctaSecondary": "Become a Member"
+        }
+      }
+    }
+  },
+  "/services/friday-evening-shabbat": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeServiceTime",
+          "id": "service-friday-evening",
+          "title": "Erev Shabbat Service",
+          "path": "/services/friday-evening-shabbat",
+          "body": {
+            "processed": "<p>Our Friday evening Erev Shabbat service is the centerpiece of our congregational worship life. This joyful, musical service welcomes the Sabbath with prayer, song, and reflection. Rabbi Goldstein and Cantor Levy lead the congregation in a blend of traditional liturgy and contemporary melodies that speak to the heart.</p><h2>What to Expect</h2><ul><li>Candle lighting and Kiddush to welcome Shabbat</li><li>Congregational singing with guitar and keyboard accompaniment</li><li>Torah-inspired sermon by Rabbi Goldstein</li><li>Special blessings for birthdays, anniversaries, and milestones</li><li>Oneg Shabbat reception with challah, wine, and refreshments following the service</li></ul><p>Visitors are always welcome. Prayer books with English transliteration are available so everyone can participate fully. The service lasts approximately 75 minutes.</p>",
+            "summary": "Our Friday evening Erev Shabbat service is the centerpiece of our congregational worship life. This joyful, musical service welcomes the Sabbath with prayer, song, and reflection. Rabbi Goldstein and "
+          },
+          "serviceName": "Erev Shabbat",
+          "dayOfWeek": "Friday",
+          "startTime": "7:30 PM",
+          "endTime": "8:45 PM",
+          "serviceStyle": "Reform, musical, participatory",
+          "notes": {
+            "processed": "<p>First Friday of each month is our Family Shabbat with a special 6:00 PM service designed for families with young children. Tot Shabbat for ages 0-5 is held monthly at 5:00 PM.</p>",
+            "summary": "First Friday of each month is our Family Shabbat with a special 6:00 PM service designed for families with young children. Tot Shabbat for ages 0-5 is held monthly at 5:00 PM."
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
+            "alt": "Shabbat candles glowing warmly",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/services/saturday-morning-shabbat": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeServiceTime",
+          "id": "service-saturday-morning",
+          "title": "Shabbat Morning Service",
+          "path": "/services/saturday-morning-shabbat",
+          "body": {
+            "processed": "<p>Our Saturday morning Shabbat service offers a deeper engagement with the weekly Torah portion through study and worship. This service includes a full Torah reading and is often the setting for B'nei Mitzvah celebrations, where our young people read from the Torah for the first time.</p><h2>Service Elements</h2><ul><li>Shacharit (morning) prayers</li><li>Torah service with weekly parasha reading</li><li>D'var Torah (Torah commentary) by the Rabbi or Bar/Bat Mitzvah student</li><li>Musaf (additional) service</li><li>Kiddush luncheon following the service</li></ul><p>The Saturday morning service is more contemplative than our Friday evening worship and provides an opportunity for in-depth Torah study. All are welcome, including those new to Jewish worship.</p>",
+            "summary": "Our Saturday morning Shabbat service offers a deeper engagement with the weekly Torah portion through study and worship. This service includes a full Torah reading and is often the setting for B'nei M"
+          },
+          "serviceName": "Shabbat Morning",
+          "dayOfWeek": "Saturday",
+          "startTime": "10:00 AM",
+          "endTime": "12:00 PM",
+          "serviceStyle": "Reform, Torah-centered, contemplative",
+          "notes": {
+            "processed": "<p>When a B'nei Mitzvah is scheduled, the service may run slightly longer. A Kiddush luncheon is hosted by the B'nei Mitzvah family and open to all congregants and guests.</p>",
+            "summary": "When a B'nei Mitzvah is scheduled, the service may run slightly longer. A Kiddush luncheon is hosted by the B'nei Mitzvah family and open to all congregants and guests."
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800&q=80",
+            "alt": "Synagogue sanctuary prepared for Shabbat morning worship",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/services/high-holy-days": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeServiceTime",
+          "id": "service-high-holidays",
+          "title": "High Holy Days Services",
+          "path": "/services/high-holy-days",
+          "body": {
+            "processed": "<p>The High Holy Days, Rosh Hashanah and Yom Kippur, are the most sacred days of the Jewish year. Temple Beth Shalom offers multiple services during this season of reflection, repentance, and renewal to accommodate our growing congregation.</p><h2>Rosh Hashanah</h2><ul><li>Erev Rosh Hashanah Service: 7:30 PM</li><li>Rosh Hashanah Morning Service: 10:00 AM</li><li>Family Service: 3:00 PM</li><li>Tashlich at Lakeside Park: 4:30 PM</li></ul><h2>Yom Kippur</h2><ul><li>Kol Nidre: 7:30 PM</li><li>Yom Kippur Morning Service: 10:00 AM</li><li>Afternoon Study Session: 2:00 PM</li><li>Yizkor Memorial Service: 4:00 PM</li><li>Neilah (Closing) Service: 5:30 PM</li><li>Break the Fast: Following Neilah</li></ul><p>High Holy Day tickets are included with membership. Non-member tickets are available by contacting the office. Guests are always welcome at our Family Services.</p>",
+            "summary": "The High Holy Days, Rosh Hashanah and Yom Kippur, are the most sacred days of the Jewish year. Temple Beth Shalom offers multiple services during this season of reflection, repentance, and renewal to "
+          },
+          "serviceName": "High Holy Days",
+          "dayOfWeek": "Varies (September/October)",
+          "startTime": "Varies by service",
+          "endTime": "Varies by service",
+          "serviceStyle": "Reform, traditional liturgy with choir and cantor",
+          "notes": {
+            "processed": "<p>Seating is reserved for all High Holy Day services except Family Services. Childcare is available during morning services. ASL interpretation available upon request with two weeks' notice.</p>",
+            "summary": "Seating is reserved for all High Holy Day services except Family Services. Childcare is available during morning services. ASL interpretation available upon request with two weeks' notice."
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800&q=80",
+            "alt": "Shofar and prayer book for the High Holy Days",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/programs/religious-school": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProgram",
+          "id": "program-religious-school",
+          "title": "Religious School",
+          "path": "/programs/religious-school",
+          "body": {
+            "processed": "<p>The Temple Beth Shalom Religious School provides a joyful, engaging Jewish education for children from kindergarten through 10th grade. Our curriculum integrates Hebrew language, Jewish history, Torah study, holidays, values, and Israel education in an age-appropriate and interactive format.</p><h2>Grade Levels</h2><ul><li><strong>Grades K-2:</strong> Introduction to Hebrew letters, holidays, and Jewish values through stories, songs, and art</li><li><strong>Grades 3-5:</strong> Hebrew reading and writing, Torah narratives, Jewish lifecycle, and community building</li><li><strong>Grades 6-7:</strong> B'nei Mitzvah preparation, Judaic ethics, and Hebrew proficiency</li><li><strong>Grades 8-10:</strong> Confirmation program exploring Jewish identity, social justice, and contemporary issues</li></ul><h2>Schedule</h2><p>Classes meet on Sunday mornings from 9:00 AM to 12:00 PM, with additional Hebrew sessions on Wednesdays from 4:15 PM to 6:00 PM for grades 3 and above.</p>",
+            "summary": "The Temple Beth Shalom Religious School provides a joyful, engaging Jewish education for children from kindergarten through 10th grade. Our curriculum integrates Hebrew language, Jewish history, Torah"
+          },
+          "programType": [
+            {
+              "id": "hebrew-language",
+              "name": "hebrew-language"
+            },
+            {
+              "id": "youth-programs",
+              "name": "youth-programs"
+            }
+          ],
+          "leader": "Director of Education Rachel Stern",
+          "schedule": "Sundays 9:00 AM - 12:00 PM, Wednesdays 4:15 PM - 6:00 PM (grades 3+)",
+          "location": "Education Wing",
+          "ageGroup": "Grades K through 10",
+          "registrationUrl": "https://bethshalom.org/school",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+            "alt": "Children engaged in Jewish learning activities",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/programs/torah-study": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProgram",
+          "id": "program-torah-study",
+          "title": "Shabbat Morning Torah Study",
+          "path": "/programs/torah-study",
+          "body": {
+            "processed": "<p>Join Rabbi Goldstein for an engaging, participatory exploration of the weekly Torah portion every Saturday morning before services. This lively discussion group draws on classical commentaries, modern scholarship, and personal reflection to uncover the timeless wisdom of the Torah.</p><h2>What We Do</h2><ul><li>Read and discuss the weekly parasha (Torah portion) in English and Hebrew</li><li>Explore commentaries from Rashi, Maimonides, and contemporary scholars</li><li>Connect ancient texts to modern ethical dilemmas and current events</li><li>Share personal insights in a respectful, intellectually stimulating environment</li></ul><p>No prior knowledge of Hebrew or Torah is required. Coffee, bagels, and lox are provided. Drop-ins are always welcome; there is no need to register.</p>",
+            "summary": "Join Rabbi Goldstein for an engaging, participatory exploration of the weekly Torah portion every Saturday morning before services. This lively discussion group draws on classical commentaries, modern"
+          },
+          "programType": [
+            {
+              "id": "torah-study",
+              "name": "torah-study"
+            },
+            {
+              "id": "adult-education",
+              "name": "adult-education"
+            }
+          ],
+          "leader": "Rabbi David Goldstein",
+          "schedule": "Saturdays, 8:45 AM - 9:45 AM",
+          "location": "Library",
+          "ageGroup": "Adults",
+          "registrationUrl": "https://bethshalom.org/torah-study",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+            "alt": "Torah scroll and study materials",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/programs/social-action-committee": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProgram",
+          "id": "program-social-action",
+          "title": "Social Action & Tikkun Olam Committee",
+          "path": "/programs/social-action-committee",
+          "body": {
+            "processed": "<p>Rooted in the Jewish value of Tikkun Olam (repairing the world), our Social Action Committee organizes year-round initiatives that address hunger, housing, education, and social justice in our community. We believe that putting our values into action is a core expression of Jewish faith.</p><h2>Current Initiatives</h2><ul><li><strong>Monthly Meal Service:</strong> Prepare and serve meals at the Springfield Community Kitchen</li><li><strong>Refugee Resettlement:</strong> Partner with local agencies to welcome and support refugee families</li><li><strong>Interfaith Habitat Build:</strong> Annual home build with Habitat for Humanity</li><li><strong>Voter Registration Drive:</strong> Non-partisan civic engagement during election seasons</li><li><strong>Environmental Stewardship:</strong> Park cleanups, tree planting, and sustainability education</li></ul><p>All congregants are invited to participate. No committee membership required. Check our calendar for upcoming service opportunities or contact socialaction@bethshalom.org.</p>",
+            "summary": "Rooted in the Jewish value of Tikkun Olam (repairing the world), our Social Action Committee organizes year-round initiatives that address hunger, housing, education, and social justice in our communi"
+          },
+          "programType": [
+            {
+              "id": "social-action",
+              "name": "social-action"
+            }
+          ],
+          "leader": "Co-Chairs Ellen Shapiro & Michael Rosen",
+          "schedule": "Monthly meetings, service projects throughout the year",
+          "location": "Various locations",
+          "ageGroup": "All ages welcome (youth opportunities available)",
+          "registrationUrl": "https://bethshalom.org/social-action",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+            "alt": "Volunteers working together on a community service project",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/purim-carnival": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-purim",
+          "title": "Purim Carnival & Megillah Reading",
+          "path": "/events/purim-carnival",
+          "body": {
+            "processed": "<p>Chag Purim! Join Temple Beth Shalom for our annual Purim Carnival and Megillah Reading, the most festive and fun holiday on the Jewish calendar. Come in costume, make noise with your grogger, and celebrate the story of Queen Esther's bravery.</p><h2>Schedule</h2><ul><li>4:00 PM - Carnival opens (games, prizes, face painting, bounce house)</li><li>5:00 PM - Costume parade and contest (categories for all ages)</li><li>5:30 PM - Pizza dinner and hamantaschen</li><li>6:30 PM - Megillah reading with audience participation</li><li>7:30 PM - Purim spiel (humorous skit) performed by Temple Players</li></ul><p>This event is free and open to the entire community. Bring your friends, your family, and your best costume!</p>",
+            "summary": "Chag Purim! Join Temple Beth Shalom for our annual Purim Carnival and Megillah Reading, the most festive and fun holiday on the Jewish calendar. Come in costume, make noise with your grogger, and cele"
+          },
+          "eventDate": {
+            "timestamp": 1773694800
+          },
+          "endDate": {
+            "timestamp": 1773709200
+          },
+          "location": "Temple Beth Shalom Social Hall & Grounds",
+          "eventCategory": [
+            {
+              "id": "holiday-celebration",
+              "name": "holiday-celebration"
+            },
+            {
+              "id": "community-social",
+              "name": "community-social"
+            }
+          ],
+          "speaker": "Rabbi David Goldstein & Cantor Sarah Levy",
+          "registrationUrl": "https://bethshalom.org/purim",
+          "cost": "Free",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&q=80",
+            "alt": "Colorful Purim celebration with costumes and festivities",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/community-passover-seder": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-passover-seder",
+          "title": "Community Passover Seder",
+          "path": "/events/community-passover-seder",
+          "body": {
+            "processed": "<p>You are invited to Temple Beth Shalom's Community Passover Seder, a meaningful and joyful retelling of the Exodus story. Led by Rabbi Goldstein and Cantor Levy, the seder is designed to be accessible and engaging for all ages, from the Four Questions asked by our youngest participants to thoughtful discussion for adults.</p><h2>Seder Details</h2><ul><li>Traditional seder with an interactive, family-friendly Haggadah</li><li>Full kosher-for-Passover dinner catered by Bubbe's Kitchen</li><li>Children's activities and afikoman hunt</li><li>Songsheets for all the classic Passover melodies</li><li>Vegetarian and gluten-free options available</li></ul><p>The Community Seder is especially meaningful for those who may not have family nearby or who want to share the holiday experience with a larger community. Reservations are required as seating is limited.</p>",
+            "summary": "You are invited to Temple Beth Shalom's Community Passover Seder, a meaningful and joyful retelling of the Exodus story. Led by Rabbi Goldstein and Cantor Levy, the seder is designed to be accessible "
+          },
+          "eventDate": {
+            "timestamp": 1775170800
+          },
+          "endDate": {
+            "timestamp": 1775183400
+          },
+          "location": "Temple Beth Shalom Social Hall",
+          "eventCategory": [
+            {
+              "id": "holiday-celebration",
+              "name": "holiday-celebration"
+            }
+          ],
+          "speaker": "Rabbi David Goldstein",
+          "registrationUrl": "https://bethshalom.org/seder",
+          "cost": "$36 adults, $18 children (12 and under), $90 family max",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1567529692333-de9fd6772897?w=800&q=80",
+            "alt": "Beautifully set Passover seder table",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1567529692333-de9fd6772897?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1567529692333-de9fd6772897?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1567529692333-de9fd6772897?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/scholar-in-residence": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-lecture",
+          "title": "Scholar-in-Residence Weekend: Jewish Ethics in the Age of AI",
+          "path": "/events/scholar-in-residence",
+          "body": {
+            "processed": "<p>Temple Beth Shalom is honored to welcome Dr. Rebecca Friedman, Professor of Jewish Ethics at Hebrew Union College, for our annual Scholar-in-Residence Weekend. Dr. Friedman will explore how Jewish ethical traditions can guide us through the moral challenges posed by artificial intelligence and emerging technology.</p><h2>Weekend Schedule</h2><ul><li><strong>Friday Evening:</strong> Lecture following Shabbat services - 'What Would the Rabbis Say About AI?'</li><li><strong>Saturday Morning:</strong> Torah study session connecting the weekly parasha to technology ethics</li><li><strong>Saturday Afternoon:</strong> Workshop - 'Practical Jewish Ethics for the Digital Age'</li><li><strong>Sunday Morning:</strong> Brunch and panel discussion with community leaders</li></ul><p>Dr. Friedman's visit is made possible by the Kessler Family Lecture Fund. All events are free and open to the public.</p>",
+            "summary": "Temple Beth Shalom is honored to welcome Dr. Rebecca Friedman, Professor of Jewish Ethics at Hebrew Union College, for our annual Scholar-in-Residence Weekend. Dr. Friedman will explore how Jewish eth"
+          },
+          "eventDate": {
+            "timestamp": 1778286600
+          },
+          "endDate": {
+            "timestamp": 1778432400
+          },
+          "location": "Temple Beth Shalom Sanctuary and Social Hall",
+          "eventCategory": [
+            {
+              "id": "educational",
+              "name": "educational"
+            },
+            {
+              "id": "shabbat-special",
+              "name": "shabbat-special"
+            }
+          ],
+          "speaker": "Dr. Rebecca Friedman, Hebrew Union College",
+          "registrationUrl": "https://bethshalom.org/scholar",
+          "cost": "Free",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+            "alt": "Scholar speaking at a lecture event",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/spring-bnei-mitzvah-class": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-bnei-mitzvah",
+          "title": "Mazel Tov to Our Spring B'nei Mitzvah Class",
+          "path": "/news/spring-bnei-mitzvah-class",
+          "body": {
+            "processed": "<p>Temple Beth Shalom congratulates the eight young people who celebrated becoming B'nei Mitzvah this spring. Each student spent more than a year preparing for this milestone, studying Hebrew, learning their Torah and Haftarah portions, and completing meaningful social action projects.</p><h2>Spring 2026 B'nei Mitzvah</h2><ul><li>Emma Shapiro (March 7) - Social action project: collected 500 books for Springfield Public Library</li><li>Jacob Rosen (March 14) - Social action project: organized senior center game nights</li><li>Maya Goldberg (March 21) - Social action project: raised funds for animal rescue</li><li>Ethan Levy (March 28) - Social action project: tutored elementary school students</li></ul><p>We are proud of each of these young people and look forward to watching them continue their Jewish journey as members of our community.</p>",
+            "summary": "Temple Beth Shalom congratulates the eight young people who celebrated becoming B'nei Mitzvah this spring. Each student spent more than a year preparing for this milestone, studying Hebrew, learning t"
+          },
+          "newsCategory": [
+            {
+              "id": "bnei-mitzvah",
+              "name": "bnei-mitzvah"
+            }
+          ],
+          "publishDate": {
+            "timestamp": 1772377200
+          },
+          "author": "Rabbi David Goldstein",
+          "summary": {
+            "processed": "<p>Eight students celebrated becoming B'nei Mitzvah this spring at Temple Beth Shalom, each completing meaningful social action projects as part of their preparation.</p>",
+            "summary": "Eight students celebrated becoming B'nei Mitzvah this spring at Temple Beth Shalom, each completing meaningful social action projects as part of their preparation."
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+            "alt": "Students celebrating their B'nei Mitzvah milestone",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/cantor-levy-concert": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-cantor-concert",
+          "title": "Cantor Levy to Perform Benefit Concert for Refugee Resettlement",
+          "path": "/news/cantor-levy-concert",
+          "body": {
+            "processed": "<p>Cantor Sarah Levy will perform a special benefit concert on Saturday evening, April 25, featuring Jewish music spanning centuries and continents. The program includes Sephardic ballads, Yiddish folk songs, Israeli contemporary music, and liturgical favorites.</p><h2>Concert Details</h2><ul><li>Performance begins at 8:00 PM following Havdalah</li><li>Accompanied by the Springfield Chamber Ensemble</li><li>Guest appearance by the Temple Beth Shalom Youth Choir</li><li>Dessert reception following the concert</li></ul><p>All proceeds benefit the Springfield Refugee Resettlement Coalition, supporting our congregation's commitment to welcoming strangers as taught in the Torah. Tickets are $25 per person and available through the temple office or online.</p>",
+            "summary": "Cantor Sarah Levy will perform a special benefit concert on Saturday evening, April 25, featuring Jewish music spanning centuries and continents. The program includes Sephardic ballads, Yiddish folk s"
+          },
+          "newsCategory": [
+            {
+              "id": "community",
+              "name": "community"
+            },
+            {
+              "id": "synagogue-news",
+              "name": "synagogue-news"
+            }
+          ],
+          "publishDate": {
+            "timestamp": 1771167600
+          },
+          "author": "Temple Beth Shalom Communications",
+          "summary": {
+            "processed": "<p>Cantor Sarah Levy will perform a benefit concert on April 25 featuring Jewish music from diverse traditions, with all proceeds supporting the Springfield Refugee Resettlement Coalition.</p>",
+            "summary": "Cantor Sarah Levy will perform a benefit concert on April 25 featuring Jewish music from diverse traditions, with all proceeds supporting the Springfield Refugee Resettlement Coalition."
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800&q=80",
+            "alt": "Musical performance in a concert setting",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/rabbi-message-spring-2026": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-rabbi-message",
+          "title": "A Message from Rabbi Goldstein: Renewing Our Commitment",
+          "path": "/news/rabbi-message-spring-2026",
+          "body": {
+            "processed": "<p>Dear friends,</p><p>As we enter the spring season and prepare for Passover, I find myself reflecting on the themes of renewal and liberation that are central to this time of year. The Passover story reminds us that freedom is not just a historical event but an ongoing responsibility. We are called to pursue justice, welcome the stranger, and work toward a world where every person can live in dignity.</p><p>I am incredibly proud of how our congregation has lived these values over the past year. From our Social Action Committee's monthly meal service to our Religious School students' community projects, Beth Shalom members continue to demonstrate that Jewish values are not abstract ideals but concrete actions.</p><h2>Looking Ahead</h2><p>This spring brings exciting opportunities for learning and connection. Our Scholar-in-Residence weekend in May will challenge us to think about Jewish ethics in new ways, and our Community Seder will bring us together in celebration and gratitude.</p><p>I look forward to sharing these moments with you.</p><p>B'shalom,<br />Rabbi David Goldstein</p>",
+            "summary": "Dear friends,As we enter the spring season and prepare for Passover, I find myself reflecting on the themes of renewal and liberation that are central to this time of year. The Passover story reminds "
+          },
+          "newsCategory": [
+            {
+              "id": "clergy-message",
+              "name": "clergy-message"
+            }
+          ],
+          "publishDate": {
+            "timestamp": 1772377200
+          },
+          "author": "Rabbi David Goldstein",
+          "summary": {
+            "processed": "<p>Rabbi Goldstein reflects on the themes of renewal and liberation as the congregation prepares for Passover and looks ahead to spring programming.</p>",
+            "summary": "Rabbi Goldstein reflects on the themes of renewal and liberation as the congregation prepares for Passover and looks ahead to spring programming."
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+            "alt": "Rabbi David Goldstein",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/about": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-about",
+          "title": "About Temple Beth Shalom",
+          "path": "/about",
+          "body": {
+            "processed": "<p>Temple Beth Shalom is a Reform Jewish congregation founded in 1952 by a small group of Jewish families in Springfield. Over more than seven decades, we have grown into a vibrant community of over 650 families united by a shared commitment to Jewish tradition, learning, social justice, and joyful worship.</p><h2>Our Mission</h2><p>To be a welcoming spiritual home where every person can explore Jewish tradition, build meaningful connections, and work together to create a more just and compassionate world.</p><h2>Our Values</h2><ul><li><strong>Torah (Learning)</strong> - We embrace lifelong Jewish learning for all ages and backgrounds.</li><li><strong>Avodah (Worship)</strong> - We create meaningful, musical, and inclusive worship experiences.</li><li><strong>Gemilut Chasadim (Acts of Loving-Kindness)</strong> - We care for one another through our community of support.</li><li><strong>Tikkun Olam (Repairing the World)</strong> - We put our values into action through social justice and service.</li></ul><h2>Affiliation</h2><p>Temple Beth Shalom is a proud member congregation of the Union for Reform Judaism (URJ). We are committed to the principles of Reform Judaism, which honors tradition while embracing modernity, equality, and inclusion.</p>",
+            "summary": "Temple Beth Shalom is a Reform Jewish congregation founded in 1952 by a small group of Jewish families in Springfield. Over more than seven decades, we have grown into a vibrant community of over 650 "
+          }
+        }
+      }
+    }
+  },
+  "/membership": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-membership",
+          "title": "Membership at Temple Beth Shalom",
+          "path": "/membership",
+          "body": {
+            "processed": "<h2>Everyone Belongs Here</h2><p>Temple Beth Shalom welcomes all who seek a Jewish spiritual home, including interfaith families, Jews by choice, LGBTQ+ individuals and families, and those at every point on their Jewish journey. Membership is open to all, and we believe that no one should be turned away due to financial considerations.</p><h2>Member Benefits</h2><ul><li>Unlimited access to all Shabbat and holiday services</li><li>Religious School enrollment for children K-10</li><li>High Holy Day seating for your family</li><li>B'nei Mitzvah preparation and ceremony</li><li>Pastoral support from clergy (counseling, hospital visits, lifecycle events)</li><li>Voting rights at congregational meetings</li><li>Discounts on special events and programs</li></ul><h2>Dues</h2><p>Annual dues are based on a fair-share model. We suggest a contribution of $1,800 per household but welcome whatever amount is meaningful and manageable for your family. We also offer reduced dues for young families (under 35), singles, and seniors. Please contact our membership coordinator at membership@bethshalom.org or call (555) 600-1000.</p>",
+            "summary": "Everyone Belongs HereTemple Beth Shalom welcomes all who seek a Jewish spiritual home, including interfaith families, Jews by choice, LGBTQ+ individuals and families, and those at every point on their"
+          }
+        }
+      }
+    }
+  }
+}

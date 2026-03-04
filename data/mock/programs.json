@@ -1,0 +1,158 @@
+{
+  "data": {
+    "nodePrograms": {
+      "__typename": "NodeProgramConnection",
+      "nodes": [
+        {
+          "__typename": "NodeProgram",
+          "id": "program-religious-school",
+          "title": "Religious School",
+          "path": "/programs/religious-school",
+          "body": {
+            "processed": "<p>The Temple Beth Shalom Religious School provides a joyful, engaging Jewish education for children from kindergarten through 10th grade. Our curriculum integrates Hebrew language, Jewish history, Torah study, holidays, values, and Israel education in an age-appropriate and interactive format.</p><h2>Grade Levels</h2><ul><li><strong>Grades K-2:</strong> Introduction to Hebrew letters, holidays, and Jewish values through stories, songs, and art</li><li><strong>Grades 3-5:</strong> Hebrew reading and writing, Torah narratives, Jewish lifecycle, and community building</li><li><strong>Grades 6-7:</strong> B'nei Mitzvah preparation, Judaic ethics, and Hebrew proficiency</li><li><strong>Grades 8-10:</strong> Confirmation program exploring Jewish identity, social justice, and contemporary issues</li></ul><h2>Schedule</h2><p>Classes meet on Sunday mornings from 9:00 AM to 12:00 PM, with additional Hebrew sessions on Wednesdays from 4:15 PM to 6:00 PM for grades 3 and above.</p>",
+            "summary": "The Temple Beth Shalom Religious School provides a joyful, engaging Jewish education for children from kindergarten through 10th grade. Our curriculum integrates Hebrew language, Jewish history, Torah"
+          },
+          "programType": [
+            {
+              "id": "hebrew-language",
+              "name": "hebrew-language"
+            },
+            {
+              "id": "youth-programs",
+              "name": "youth-programs"
+            }
+          ],
+          "leader": "Director of Education Rachel Stern",
+          "schedule": "Sundays 9:00 AM - 12:00 PM, Wednesdays 4:15 PM - 6:00 PM (grades 3+)",
+          "location": "Education Wing",
+          "ageGroup": "Grades K through 10",
+          "registrationUrl": "https://bethshalom.org/school",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+            "alt": "Children engaged in Jewish learning activities",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProgram",
+          "id": "program-torah-study",
+          "title": "Shabbat Morning Torah Study",
+          "path": "/programs/torah-study",
+          "body": {
+            "processed": "<p>Join Rabbi Goldstein for an engaging, participatory exploration of the weekly Torah portion every Saturday morning before services. This lively discussion group draws on classical commentaries, modern scholarship, and personal reflection to uncover the timeless wisdom of the Torah.</p><h2>What We Do</h2><ul><li>Read and discuss the weekly parasha (Torah portion) in English and Hebrew</li><li>Explore commentaries from Rashi, Maimonides, and contemporary scholars</li><li>Connect ancient texts to modern ethical dilemmas and current events</li><li>Share personal insights in a respectful, intellectually stimulating environment</li></ul><p>No prior knowledge of Hebrew or Torah is required. Coffee, bagels, and lox are provided. Drop-ins are always welcome; there is no need to register.</p>",
+            "summary": "Join Rabbi Goldstein for an engaging, participatory exploration of the weekly Torah portion every Saturday morning before services. This lively discussion group draws on classical commentaries, modern"
+          },
+          "programType": [
+            {
+              "id": "torah-study",
+              "name": "torah-study"
+            },
+            {
+              "id": "adult-education",
+              "name": "adult-education"
+            }
+          ],
+          "leader": "Rabbi David Goldstein",
+          "schedule": "Saturdays, 8:45 AM - 9:45 AM",
+          "location": "Library",
+          "ageGroup": "Adults",
+          "registrationUrl": "https://bethshalom.org/torah-study",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+            "alt": "Torah scroll and study materials",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProgram",
+          "id": "program-social-action",
+          "title": "Social Action & Tikkun Olam Committee",
+          "path": "/programs/social-action-committee",
+          "body": {
+            "processed": "<p>Rooted in the Jewish value of Tikkun Olam (repairing the world), our Social Action Committee organizes year-round initiatives that address hunger, housing, education, and social justice in our community. We believe that putting our values into action is a core expression of Jewish faith.</p><h2>Current Initiatives</h2><ul><li><strong>Monthly Meal Service:</strong> Prepare and serve meals at the Springfield Community Kitchen</li><li><strong>Refugee Resettlement:</strong> Partner with local agencies to welcome and support refugee families</li><li><strong>Interfaith Habitat Build:</strong> Annual home build with Habitat for Humanity</li><li><strong>Voter Registration Drive:</strong> Non-partisan civic engagement during election seasons</li><li><strong>Environmental Stewardship:</strong> Park cleanups, tree planting, and sustainability education</li></ul><p>All congregants are invited to participate. No committee membership required. Check our calendar for upcoming service opportunities or contact socialaction@bethshalom.org.</p>",
+            "summary": "Rooted in the Jewish value of Tikkun Olam (repairing the world), our Social Action Committee organizes year-round initiatives that address hunger, housing, education, and social justice in our communi"
+          },
+          "programType": [
+            {
+              "id": "social-action",
+              "name": "social-action"
+            }
+          ],
+          "leader": "Co-Chairs Ellen Shapiro & Michael Rosen",
+          "schedule": "Monthly meetings, service projects throughout the year",
+          "location": "Various locations",
+          "ageGroup": "All ages welcome (youth opportunities available)",
+          "registrationUrl": "https://bethshalom.org/social-action",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+            "alt": "Volunteers working together on a community service project",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

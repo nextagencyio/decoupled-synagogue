@@ -1,0 +1,144 @@
+{
+  "data": {
+    "nodeServiceTimes": {
+      "__typename": "NodeServiceTimeConnection",
+      "nodes": [
+        {
+          "__typename": "NodeServiceTime",
+          "id": "service-friday-evening",
+          "title": "Erev Shabbat Service",
+          "path": "/services/friday-evening-shabbat",
+          "body": {
+            "processed": "<p>Our Friday evening Erev Shabbat service is the centerpiece of our congregational worship life. This joyful, musical service welcomes the Sabbath with prayer, song, and reflection. Rabbi Goldstein and Cantor Levy lead the congregation in a blend of traditional liturgy and contemporary melodies that speak to the heart.</p><h2>What to Expect</h2><ul><li>Candle lighting and Kiddush to welcome Shabbat</li><li>Congregational singing with guitar and keyboard accompaniment</li><li>Torah-inspired sermon by Rabbi Goldstein</li><li>Special blessings for birthdays, anniversaries, and milestones</li><li>Oneg Shabbat reception with challah, wine, and refreshments following the service</li></ul><p>Visitors are always welcome. Prayer books with English transliteration are available so everyone can participate fully. The service lasts approximately 75 minutes.</p>",
+            "summary": "Our Friday evening Erev Shabbat service is the centerpiece of our congregational worship life. This joyful, musical service welcomes the Sabbath with prayer, song, and reflection. Rabbi Goldstein and "
+          },
+          "serviceName": "Erev Shabbat",
+          "dayOfWeek": "Friday",
+          "startTime": "7:30 PM",
+          "endTime": "8:45 PM",
+          "serviceStyle": "Reform, musical, participatory",
+          "notes": {
+            "processed": "<p>First Friday of each month is our Family Shabbat with a special 6:00 PM service designed for families with young children. Tot Shabbat for ages 0-5 is held monthly at 5:00 PM.</p>",
+            "summary": "First Friday of each month is our Family Shabbat with a special 6:00 PM service designed for families with young children. Tot Shabbat for ages 0-5 is held monthly at 5:00 PM."
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
+            "alt": "Shabbat candles glowing warmly",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeServiceTime",
+          "id": "service-saturday-morning",
+          "title": "Shabbat Morning Service",
+          "path": "/services/saturday-morning-shabbat",
+          "body": {
+            "processed": "<p>Our Saturday morning Shabbat service offers a deeper engagement with the weekly Torah portion through study and worship. This service includes a full Torah reading and is often the setting for B'nei Mitzvah celebrations, where our young people read from the Torah for the first time.</p><h2>Service Elements</h2><ul><li>Shacharit (morning) prayers</li><li>Torah service with weekly parasha reading</li><li>D'var Torah (Torah commentary) by the Rabbi or Bar/Bat Mitzvah student</li><li>Musaf (additional) service</li><li>Kiddush luncheon following the service</li></ul><p>The Saturday morning service is more contemplative than our Friday evening worship and provides an opportunity for in-depth Torah study. All are welcome, including those new to Jewish worship.</p>",
+            "summary": "Our Saturday morning Shabbat service offers a deeper engagement with the weekly Torah portion through study and worship. This service includes a full Torah reading and is often the setting for B'nei M"
+          },
+          "serviceName": "Shabbat Morning",
+          "dayOfWeek": "Saturday",
+          "startTime": "10:00 AM",
+          "endTime": "12:00 PM",
+          "serviceStyle": "Reform, Torah-centered, contemplative",
+          "notes": {
+            "processed": "<p>When a B'nei Mitzvah is scheduled, the service may run slightly longer. A Kiddush luncheon is hosted by the B'nei Mitzvah family and open to all congregants and guests.</p>",
+            "summary": "When a B'nei Mitzvah is scheduled, the service may run slightly longer. A Kiddush luncheon is hosted by the B'nei Mitzvah family and open to all congregants and guests."
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800&q=80",
+            "alt": "Synagogue sanctuary prepared for Shabbat morning worship",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeServiceTime",
+          "id": "service-high-holidays",
+          "title": "High Holy Days Services",
+          "path": "/services/high-holy-days",
+          "body": {
+            "processed": "<p>The High Holy Days, Rosh Hashanah and Yom Kippur, are the most sacred days of the Jewish year. Temple Beth Shalom offers multiple services during this season of reflection, repentance, and renewal to accommodate our growing congregation.</p><h2>Rosh Hashanah</h2><ul><li>Erev Rosh Hashanah Service: 7:30 PM</li><li>Rosh Hashanah Morning Service: 10:00 AM</li><li>Family Service: 3:00 PM</li><li>Tashlich at Lakeside Park: 4:30 PM</li></ul><h2>Yom Kippur</h2><ul><li>Kol Nidre: 7:30 PM</li><li>Yom Kippur Morning Service: 10:00 AM</li><li>Afternoon Study Session: 2:00 PM</li><li>Yizkor Memorial Service: 4:00 PM</li><li>Neilah (Closing) Service: 5:30 PM</li><li>Break the Fast: Following Neilah</li></ul><p>High Holy Day tickets are included with membership. Non-member tickets are available by contacting the office. Guests are always welcome at our Family Services.</p>",
+            "summary": "The High Holy Days, Rosh Hashanah and Yom Kippur, are the most sacred days of the Jewish year. Temple Beth Shalom offers multiple services during this season of reflection, repentance, and renewal to "
+          },
+          "serviceName": "High Holy Days",
+          "dayOfWeek": "Varies (September/October)",
+          "startTime": "Varies by service",
+          "endTime": "Varies by service",
+          "serviceStyle": "Reform, traditional liturgy with choir and cantor",
+          "notes": {
+            "processed": "<p>Seating is reserved for all High Holy Day services except Family Services. Childcare is available during morning services. ASL interpretation available upon request with two weeks' notice.</p>",
+            "summary": "Seating is reserved for all High Holy Day services except Family Services. Childcare is available during morning services. ASL interpretation available upon request with two weeks' notice."
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800&q=80",
+            "alt": "Shofar and prayer book for the High Holy Days",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
