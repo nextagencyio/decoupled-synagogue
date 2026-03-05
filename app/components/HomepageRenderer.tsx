@@ -162,9 +162,9 @@ export default function HomepageRenderer({ homepageContent }: HomepageRendererPr
           <div className="border-t border-primary-800 mt-8 pt-8 flex flex-col sm:flex-row justify-between items-center text-slate-500 text-sm">
             <p>&copy; {new Date().getFullYear()} Congregation Beth Shalom. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 sm:mt-0">
-              <a href="/privacy" className="hover:text-accent-400 transition-colors">Privacy Policy</a>
-              <a href="/terms" className="hover:text-accent-400 transition-colors">Terms of Use</a>
-              <a href="/accessibility" className="hover:text-accent-400 transition-colors">Accessibility</a>
+              <a href="/contact" className="hover:text-accent-400 transition-colors">Privacy Policy</a>
+              <a href="/contact" className="hover:text-accent-400 transition-colors">Terms of Use</a>
+              <a href="/contact" className="hover:text-accent-400 transition-colors">Accessibility</a>
             </div>
           </div>
         </div>
