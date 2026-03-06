@@ -19,28 +19,28 @@
               "__typename": "ParagraphStatItem",
               "id": "stat-families",
               "title": "",
-              "number": "650+",
+              "number": "650+", "value": "650+",
               "label": "Member Families"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-school",
               "title": "",
-              "number": "280",
+              "number": "280", "value": "280",
               "label": "Religious School Students"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-founded",
               "title": "",
-              "number": "1952",
+              "number": "1952", "value": "1952",
               "label": "Year Founded"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-tikkun",
               "title": "",
-              "number": "15,000+",
+              "number": "15,000+", "value": "15,000+",
               "label": "Volunteer Hours Annually"
             }
           ],
