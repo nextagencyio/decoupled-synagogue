@@ -34,7 +34,51 @@ export function createTypedClient(client: DecoupledClient): TypedClient {
         query ($path: String!) {
           route(path: $path) {
             ... on RouteInternal {
-              entity { ... on NodePage { __typename id title path body { processed } } }
+              entity {
+                ... on NodePage { __typename id title path body { processed } }
+                ... on NodeHomepage {
+                  __typename id title path
+                  heroTitle heroSubtitle
+                  heroDescription { processed }
+                  statsItems { ... on ParagraphStatItem { id number label } }
+                  featuredItemsTitle
+                  ctaTitle
+                  ctaDescription { processed }
+                  ctaPrimary ctaSecondary
+                }
+                ... on NodeProgram {
+                  __typename id title path
+                  body { processed }
+                  programType { ... on TermInterface { id name } }
+                  leader schedule location ageGroup registrationUrl
+                  image { url alt width height }
+                }
+                ... on NodeServiceTime {
+                  __typename id title path
+                  body { processed }
+                  serviceName dayOfWeek startTime endTime serviceStyle
+                  notes { processed }
+                  image { url alt width height }
+                }
+                ... on NodeEvent {
+                  __typename id title path
+                  body { processed }
+                  eventDate { timestamp }
+                  endDate { timestamp }
+                  location speaker registrationUrl cost
+                  eventCategory { ... on TermInterface { id name } }
+                  image { url alt width height }
+                }
+                ... on NodeNews {
+                  __typename id title path
+                  body { processed }
+                  newsCategory { ... on TermInterface { id name } }
+                  publishDate { timestamp }
+                  author
+                  summary { processed }
+                  image { url alt width height }
+                }
+              }
             }
           }
         }
